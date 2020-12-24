@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">android_studio_16_ListViewStaticloading</string>
+    <string-array name="cities">
+        <item>item 1</item>
+        <item>item 2</item>
+        <item>item 3</item>
+        <item>item 4</item>
+    </string-array>
+</resources>
